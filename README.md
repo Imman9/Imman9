@@ -10,6 +10,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-232F3E?style=flat&logo=amazon-aws&logoColor=white).
 
 ### 📊 GitHub Stats
 ![Imman9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imman9&show_icons=true&theme=tokyonight)
