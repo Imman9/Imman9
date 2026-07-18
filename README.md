@@ -12,8 +12,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-232F3E?style=flat&logo=amazon-aws&logoColor=white).
 
-### 📊 GitHub Stats
-![Imman9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imman9&show_icons=true&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Let's+build+something+great!)](https://git.io/typing-svg)
 
