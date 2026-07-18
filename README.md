@@ -1,6 +1,6 @@
 <img src="https://your-image-url.com/banner.gif" width="100%" />
 <h1 align="center">Hi there, I'm <a href="https://github.com/Imman9">Imman</a> 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | Open Source Enthusiast | Tech Lover 💻</h3>
+<h3 align="center"> Backend Developer | Scalable Node.js Systems | Devops Practises 💻</h3>
 
 
 ### 🛠 Tech Stack
